@@ -1,0 +1,50 @@
+*.orig
+target/
+*.iml
+
+classpath
+.project
+.vscode/
+
+# Compiled class file
+*.class
+
+.classpath
+.project
+.vscode/
+
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverrid
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Log file
+*.log
+*.log.lck
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea/
