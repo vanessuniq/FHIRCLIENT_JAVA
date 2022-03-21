@@ -5,6 +5,7 @@ target/
 classpath
 .project
 .vscode
+.settings
 
 # Compiled class file
 *.class
