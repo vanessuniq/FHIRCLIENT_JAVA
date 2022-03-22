@@ -48,7 +48,7 @@ public class L02_1_FetchEthnicity {
       }
       aux += text + ombCategory + detailed;
     }
-    if (ombCategory.isBlank() || text.isBlank())
+    if (ombCategory.isEmpty() || text.isEmpty())
       aux = "Error:Non_Conformant_us-core-ethnicity_Extension";
     return aux;
   }
