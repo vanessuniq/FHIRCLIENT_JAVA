@@ -84,6 +84,7 @@ class L04_2_Tests {
     String IdentifierValue = "L04_2_T02";
     String ImmunizationStatusCode = "not-done";
     String ImmunizationDateTime = "2021-10-30T10:30:00Z";
+    // Note : server does not recognize productCVXCode = 207
     String ProductCVXCode = "158";
     String ProductCVXDisplay = "COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5 mL dose";
     String ReasonCode = "IMMUNE";
