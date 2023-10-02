@@ -39,7 +39,7 @@
     <dependency>
       <groupId>ca.uhn.hapi.fhir</groupId>
       <artifactId>hapi-fhir-validation</artifactId>
-      <version>4.1.0</version>
+      <version>4.2.0</version>
     </dependency>
 
     <!-- At least one "structures" JAR must also be included -->
