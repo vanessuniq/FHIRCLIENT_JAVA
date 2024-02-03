@@ -25,7 +25,7 @@
     <dependency>
       <groupId>ca.uhn.hapi.fhir</groupId>
       <artifactId>hapi-fhir-base</artifactId>
-      <version>4.1.0</version>
+      <version>6.10.4</version>
     </dependency>
 
     <!-- Include the client -->
